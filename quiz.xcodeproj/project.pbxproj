@@ -51,8 +51,8 @@
 		4320D7202797187A001363DE /* quiz */ = {
 			isa = PBXGroup;
 			children = (
+				4320D72F279743CE001363DE /* Controllers */,
 				4320D7212797187A001363DE /* quizApp.swift */,
-				4320D7232797187A001363DE /* ContentView.swift */,
 				4320D7252797187B001363DE /* Assets.xcassets */,
 				4320D7272797187B001363DE /* Preview Content */,
 			);
@@ -65,6 +65,14 @@
 				4320D7282797187B001363DE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4320D72F279743CE001363DE /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				4320D7232797187A001363DE /* ContentView.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
